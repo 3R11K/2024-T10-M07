@@ -1,0 +1,56 @@
+# 1. Entendimento de Negócios 
+
+## 1.1 Matriz de Risco
+
+### Introdução:
+
+<div align="center">
+<sub>Figura 1 - Matriz de risco</sub>
+<img src="./imagens/matriz_de_risco.png" width="100%" >
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+### Descrição da Matriz:
+
+
+### Plano de Ação:
+
+&emsp;A sub-seção de Plano de Ação pretende analisar os riscos descritos na seção Matriz de Risco e, a partir disso, estabelecer estratégias para mitigar o acontecimento dos riscos mapeados. Segue a metodologia estabelecida pela equipe:
+
+1. **Erros de Documentação** 
+   - Mitigação: Implementar uma revisão duplamente reforçada para garantir que nada seja negligenciado, prevenindo erros. Dessa forma, cada task terá um responsável por executá-la e um responsável por revisá-la.
+
+   Para exemplificar, segue o refinamento realizado na Sprint 1 (sugeito a mudanças nas demais sprints), note os campos de "Feito por" e "Revisado Por", que simboliza o responsável por realizar e revisar cada tarefa:
+
+    <div align="center">
+    <sub>Figura 2 - Exemplo de parte do Refinamento Criado pela Equipe</sub>
+    <img src="./imagens/exemplo_refinamento.png" width="100%" >
+    <sup>Fonte: Material produzido pelos autores (2024)</sup>
+    </div>
+
+2. **Atraso em Pequenas Entregas do Grupo**
+   - Mitigação: O *Scrum Master* e *Product Owner* será responsável verificando se as entregas estão acontecendo dentro do prazo e garantindo que as entregas sejam feitas no prazo a cada Sprint.
+
+3. **Confusão Inicial com Novas Ferramentas**
+   - Mitigação: Determinar quais serão as ferramentas utilizadas e exigir que todos os membros do grupo estude-as para estarem alinhados e preparados para o projeto.
+
+4. **Falta de Alinhamento com o Cliente**
+   - Mitigação: Confirmar após cada reunião com o cliente que o projeto está no caminho certo e que todos estão alinhados.
+
+5. **Daily Ineficiente**
+   - Mitigação: A equipe ágil deve garantir que cada membro saia da daily com clareza sobre o que cada membro do grupo está fazendo, assegurando transparência no desenvolvimento diário.
+
+6. **Falta de Motivação**
+   - Mitigação: Se houver sinais de falta de engajamento, focar em atividades de desenvolvimento em grupo para reanimar a equipe.
+
+7. **Distribuição Desigual de Tarefas**
+   - Mitigação: Analisar e ajustar a distribuição de tarefas para garantir equilíbrio, como descrito anteriormente.
+
+8. **Falta de Compromisso de Alguns Integrantes**
+   - Mitigação: Definir prazos de entrega claros e cumprir rigorosamente conforme estabelecido na planning, comunicando impedimentos.
+
+9. **Desentendimento entre Integrantes do Grupo** 
+   - Mitigação: Promover comunicação aberta e resolver conflitos rapidamente, como mencionado anteriormente.
+
+10. **Mudanças de Escopo ao Longo do Projeto** 
+    - Mitigação: Analisar as mudanças cuidadosamente, designar quem melhor se encaixa para a tarefa e garantir que o trabalho seja concluído dentro do prazo.
