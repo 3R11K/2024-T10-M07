@@ -1,5 +1,11 @@
 # 1. Entendimento de Negócios 
 
+&emsp;A sessão "Entendimento de Negócios" é projetada para estabelecer uma base no que diz respeito à viabilidade e sustentabilidade do projeto, garantindo que todas as decisões estejam alinhadas com os objetivos estratégicos e operacionais. Esta sessão abrange a análise de riscos e a definição da proposta de valor.
+
+&emsp;O primeiro componente desta sessão é a Matriz de Risco, que deve ser desenvolvida levando em consideração o projeto específico para a empresa *G2 Tecnologia*, com uma visão interna da equipe de aplicação de *SAP*. Este processo envolve a identificação de, 10 riscos potenciais que possam impactar o andamento ou o sucesso do projeto, desenhando ainda um plano de resposta para cada risco identificado e justifique as decisões tomadas, conforme recomendado por Smith (2018), que enfatiza a importância de uma gestão de riscos proativa na garantia da continuidade do negócio. Além disso, o grupo optou por fazer também a Matriz de Oportunidades, identificado 10 oportunidades, que procuram visualizar o melhor cenário possível e estabelecer estratégias para alcançar tais objetivos. 
+
+&emsp;O segundo componente é o Canvas Proposta de Valor, que deve ser elaborado com base na solução que a equipe está desenvolvendo. Este documento articula o valor que a solução proposta traz para o cliente, a G2 tecnologia, considerando suas necessidades e problemas. Estudos como o de Osterwalder et al. (2014) sublinham a eficácia do Canvas Proposta de Valor em alinhar a oferta de valor da solução com as expectativas do mercado, facilitando a comunicação e a implementação de estratégias centradas no cliente.
+
 ## 1.1 Matriz de Risco
 
 ### Introdução:
