@@ -40,7 +40,30 @@ Sumário
 
 ### Metodologia
 
-&emsp;&emsp;Essa pesquisa é baseada em artigos e publicações de sites diversos. Através do cruzamento dessas informações serão gerados _insights_ os quais serão aproveitados para justificar a implementação do sistema de ERP Sap Business One na empresa G2. Desses artigos foram retirados dados para metrificar os impactos, sejam positivos ou negativos, dada a implementação do sistema citado em empresas de pequeno e médio porte. Ou seja, utilizar da _Desk Research_ é um passo essencial para
+&emsp;&emsp;Essa pesquisa é baseada em artigos e publicações de sites diversos. Através do cruzamento dessas informações serão gerados _insights_ os quais serão aproveitados para justificar a implementação do sistema de ERP Sap Business One na empresa G2. Desses artigos foram retirados dados para metrificar os impactos, sejam positivos ou negativos, dada a implementação do sistema citado em empresas de pequeno e médio porte. Ou seja, utilizar da _Desk Research_ é um passo essencial para o entendimento do cenário a ser trabalhado e para coleta de dados cruciais para a tomada de decisão durante a implantação de um sistema de ERP.
+
+### Dados encontrados
+
+&emsp;&emsp;Primeiramente, o uso de sistemas de ERP impacta diretamente a gestão de uma empresa em diversas vertentes, desde seus processos principais aos proceso
+
+- Porcentagem de critérios de sucesso atendidos pelo SAP-PS: 83%
+- Critérios de sucesso intangíveis: Benefício comercial, desempenho do produto ao longo do ciclo de vida
+- Critérios de sucesso tangíveis:
+  - Planejamento e controle de compras
+  - Integração com manutenção da planta
+  - Integração com catálogo de equipamentos e materiais da planta
+  - Controle de documentos
+- Métrica chave para medir o sucesso do projeto: Cumprimento dos critérios de sucesso dos stakeholders.
+
+- Redução do ciclo de entrada: de 3,71 dias para 1,02 dias (redução de 73%).
+- Redução do tempo de entrega para frete aéreo: de 9,94 dias para 4,29 dias (redução de 57%).
+- Melhora na precisão do inventário: de 98,34% para 99,52%.
+- Redução de erros operacionais que geravam reclamações de clientes: de 43% para 11%.
+- Melhora na taxa de atendimento: de 82,3% para 86,3%.
+
+Estudo Comparativo: O artigo apresenta um quadro com diversos estudos de caso sobre a implementação de ERP em empresas de diferentes setores, destacando as vantagens observadas, como aumento de desempenho, tomada de decisão, padronização, maturidade e estabilidade.
+
+Resultados da Pesquisa: O estudo comparativo revela que 29% dos casos analisados apontaram o aumento de desempenho como a principal vantagem da implementação do ERP, seguido por disciplina (18%), padronização (17%), estabilidade e tomada de decisão (ambos com 12%) e maturidade (12%).
 
 
 # 2. Configurações Iniciais
