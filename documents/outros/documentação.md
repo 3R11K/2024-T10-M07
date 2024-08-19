@@ -27,6 +27,9 @@ Sumário
 * [5. Treinamento do SAP Business One - Módulo de Vendas](#5-treinamento-do-sap-business-one---módulo-de-vendas)
 
 # 1. Introdução
+&emsp;&emsp;Este documento tem como objetivo detalhar o processo de implantação do ERP SAP Business One na G2 Tecnologia. O ERP (Enterprise Resource Planning) é um sistema de gestão empresarial projetado para integrar e automatizar as diversas operações de uma empresa, proporcionando maior eficiência e controle.
+
+&emsp;&emsp;O conceito de ERP surgiu na década de 1990, com a evolução das tecnologias de informação e a necessidade crescente de sistemas que integrassem todas as áreas de uma empresa em uma única plataforma. Desde então, o ERP tem evoluído significativamente. Atualmente, a SAP, uma empresa alemã fundada em 1972, é reconhecida como líder global no setor, oferecendo soluções robustas que são amplamente adotadas por grandes multinacionais ao redor do mundo.
 
 ## 1.1 Pesquisa Exploratória
 
