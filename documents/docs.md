@@ -61,6 +61,27 @@
 10. **Mudanças de Escopo ao Longo do Projeto** 
     - Mitigação: Analisar as mudanças cuidadosamente, designar quem melhor se encaixa para a tarefa e garantir que o trabalho seja concluído dentro do prazo.
 
+
+## 1.2 Value Proposition Canvas
+
+&emsp;&emsp;O Value Proposition Canvas é um framework desenvolvido pelo Dr. Alexander Osterwalder, também criador do Business Model Canvas. Este instrumento tem como objetivo auxiliar no entendimento do valor que um produto, serviço ou negócio pode oferecer aos clientes. O framework é dividido em dois segmentos: um focado no cliente e outro na proposta de valor. No segmento voltado ao cliente, são identificadas as tarefas que os clientes desejam realizar, bem como suas dores e ganhos esperados. No segmento da proposta de valor, são analisados os benefícios oferecidos pelo produto ou serviço e como eles atendem às necessidades e aliviam as dores dos clientes. Dada a importância dessa ferramenta, apresenta-se a seguir uma análise baseada no projeto atual, buscando entender como a equipe poderá agregar valor para o cliente G2 Tecnologia.
+
+<div align="center">
+<sub>Figura X - Canvas da Propost de Valor</sub>
+<img src="./imagens/VPC.png" width="100%" >
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+&emsp;&emsp;No contexto da análise de perfil do cliente, é essencial compreender as tarefas que enfrentam, suas principais dificuldades e os ganhos que esperam alcançar. Assim, para o atual cliente, garantir uma comunicação eficaz entre diferentes áreas da empresa é fundamental, já que a entrega de valor envolve processos que abrangem todos os setores da organização, tanto direta quanto indiretamente. Além disso, é crucial assegurar a efetividade dos processos e gerar relatórios que vão facilitar em momentos de auditoria, na construção de análises, nas avaliações de desempenho e até mesmo na tomada de decisões estratégicas.
+
+&emsp;&emsp;As dificuldades enfrentadas pelos clientes estão diretamente relacionadas às tarefas apresentadas acima. Silos de informação criam barreiras à comunicação eficiente entre áreas, a falta de padronização de processos resulta em ineficiências operacionais, e a necessidade de gerar relatórios manualmente consome tempo e aumenta o risco de erros. Outro desafio comum é o retrabalho, causado pela comunicação ineficaz e ausência de processos padronizados.
+
+&emsp;&emsp;Para enfrentar essas dificuldades, os clientes buscam ganhos específicos: operações mais eficientes que reduzam retrabalho e custos, além de uma melhor capacidade de monitorar o desempenho e tomar decisões estratégicas com mais facilidade.
+
+&emsp;&emsp;A proposta de valor aqui apresentada é a implementação do SAP Business One - um sistema de gestão empresarial que oferece uma solução integrada e abrangente - na empresa cliente. Com todos os módulos necessários para cobrir as diversas áreas da empresa, o SAP Business One elimina os silos de informação, facilita a comunicação entre setores e garante que todos os processos sejam bem definidos e padronizados, o que reduz quase a zero a possibilidades de ocorrer retrabalho. Em adição a isto, o sistema permite a automação de tarefas ordinárias, como a geração de relatórios e o cálculo de impostos, reduzindo nestes casos a necessidade de trabalho manual.
+
+&emsp;&emsp;Portanto, fica evidente que o SAP Business One aborda diretamente as principais questões enfrentadas pelo cliente. Isto se dá pois o serviço de implementação oferecido é o ideal para o momento de expansão que a empresa cliente vive, proporcionando um aumento na eficiência operacional, redução de custos e facilidade na tomada de decisões estratégicas.
+
 # 2. Experiência de Usuário 
 A sessão "Experiência de Usuário" visa detalhar o processo de entendimento das interações e percepções dos usuários em relação ao produto ou serviço em desenvolvimento. A análise da experiência do usuário (UX) garante que o produto final atenda às necessidades e expectativas do público-alvo, sendo um fator crítico para o sucesso do projeto.
 
@@ -86,7 +107,3 @@ A pesquisa desk, por sua vez, requer a coleta de dados secundários a partir de 
 ### Conclusão
 &emsp;O diagrama de macroprocessos desenvolvido facilita a compreensão dos fluxos operacionais das áreas da G2. Com este mapeamento, a equipe poderá garantir que todas as etapas sejam executadas conforme planejado, promovendo a integração dos processos e assegurando que a gestão de estoque atinja um novo patamar de eficiência e controle.
 
-
-    
-
-    
