@@ -31,22 +31,19 @@ Sumário
 
 &emsp;&emsp;A sessão de "Introdução" procura estabelecer uma visão de experiência de usuário,detalhando o processo de entendimento das interações e percepções dos usuários em relação ao produto ou serviço em desenvolvimento. A análise da experiência do usuário (UX) garante que o produto final atenda às necessidades e expectativas do público-alvo, sendo um fator crítico para o sucesso do projeto.
 
-&emsp;&emsp;Nessa seção, o grupo terá dois focos específicos: Uma pesquisa exploratória e a pesquisa desk. A pesquisa exploratória visa adquirir um entendimento inicial sobre o tema em questão, o que foi obtido por meio de observações em campo e pelo primeiro contato com o parceiro durante o Kick-off, que se deu no dia 7 (sete) de agosto de 2024. Este tipo de pesquisa é fundamental para construir uma base sólida para as etapas subsequentes, conforme discutido por Brown (2019), que destaca a importância de uma fase exploratória robusta para a criação de produtos centrados no usuário.
+&emsp;&emsp;Nessa seção, o grupo terá três focos específicos: Uma pesquisa exploratória, uma pesquisa desk e a matriz de riscos. A pesquisa exploratória visa adquirir um entendimento inicial sobre o tema em questão, o que foi obtido por meio de observações em campo e pelo primeiro contato com o parceiro durante o Kick-off, que se deu no dia 7 (sete) de agosto de 2024. Este tipo de pesquisa é fundamental para construir uma base sólida para as etapas subsequentes, conforme discutido por Brown (2019), que destaca a importância de uma fase exploratória robusta para a criação de produtos centrados no usuário.
 
 &emsp;&emsp;A pesquisa desk, por sua vez, requer a coleta de dados secundários a partir de fontes confiáveis, como livros, periódicos, publicações oficiais e relatórios de institutos reconhecidos. O objetivo dessa etapa é complementar os dados obtidos na pesquisa exploratória e fornecer uma visão abrangente do contexto do projeto. A eficácia da pesquisa desk está amplamente documentada na literatura, como aponta o estudo de Kumar (2020), que enfatiza a importância de utilizar múltiplas fontes secundárias para enriquecer o entendimento sobre o tema. Os temas escolhidos pela equipe para conduzir a pesquisa desk estão alinhados com o objetivos do módulo em questão, ou seja, o módulo SAP e a área de estoque.
 
-## 1.1 Matriz de Risco
+&emsp;&emsp; Por fim, a matriz de riscos desempenha um papel crucial na gestão do projeto, identificando possíveis ameaças que poderiam comprometer a entrega e o sucesso do produto ou serviço. Essa matriz é desenvolvida com o objetivo de mapear os riscos potenciais, categorizando-os de acordo com sua probabilidade de ocorrência e impacto. Dessa forma, o grupo pode priorizar os riscos mais críticos e definir estratégias de mitigação adequadas. A matriz de riscos é uma ferramenta dinâmica, sendo revisada e atualizada conforme o projeto avança e novas informações se tornam disponíveis.
 
-### Introdução:
+## 1.1 Matriz de Risco
 
 <div align="center">
 <sub>Figura 1 - Matriz de risco</sub>
 <img src="./imagens/matriz_de_risco.png" width="100%" >
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
-
-### Descrição da Matriz:
-
 
 ### Plano de Ação:
 
@@ -105,17 +102,17 @@ Também foi abordada a questão de quem realiza os testes unitários dentro da e
 
 ## 1.3 Pesquisa Desk
 
-### Introdução
+### 1.3.1 Introdução
 
 &emsp;&emsp;Com o crescimento exponencial do uso de sistemas integrados de gestão empresarial (ERP) em todo o mundo, empresas de todos os portes buscam soluções para automatizar e otimizar seus fluxos de trabalho complexos. Considerando o cenário atual, 77% das transações ocorridas em todo o mundo passam por um sistema SAP<sup><a href="#referencia-1">1</a></sup>, evidenciando a relevância dessa tecnologia no ambiente de negócios global. No caso de uma loja de roupas com operação online, sistemas como o SAP Business One desempenham um papel crucial ao integrar todos os dados da empresa em um único banco de dados, permitindo que processos como verificação de estoque, confirmação de pagamento, emissão de notas fiscais e comunicação com o cliente sejam realizados de forma rápida e automatizada. A primeira parte desta pesquisa examina os benefícios da implementação do SAP Business One, abordando como ele transforma a gestão empresarial, reduzindo a complexidade e aumentando a eficiência operacional. A segunda parte dela foca na área de estoque, a área em que a equipe em questão tem enfoque dentro da extensão de implantação geral, explorando a sua existência e relevância para o universo empreesarial, com um enfoque maior em como as tecnologias de sistemas integrados de gestão podem agir para a facilitação dessa área, visando o crescimento de uma empresa completa a partir disso.
 
 &emsp;&emsp;Posto isso, essa pesquisa tem como objetivo buscar dados referentes aos prováveis impactos da implantação do sistema ERP *Sap Business One*. Com isso, será possível avaliar a aplicabilidade da mesma solução na empresa *G2 Tecnologia*.
 
-### Justificativa
+### 1.3.2 Justificativa
 
 &emsp;&emsp;A pesquisa é fundamental para justificar a implementação do sistema ERP, como o *SAP Business One*, pois é necessário compreender os impactos potenciais de seu uso nos processos da empresa. Neste documento, a empresa G2 Tecnologia busca implementar o *SAP Business One* para administrar seus macroprocessos. Portanto, é essencial realizar essa pesquisa para identificar os benefícios e determinar se esse sistema atende adequadamente às necessidades da empresa ou se são necessárias soluções mais robustas.
 
-### Metodologia
+### 1.3.3 Metodologia
 
 &emsp;&emsp;Essa pesquisa é baseada em artigos e publicações de sites diversos. Através do cruzamento dessas informações serão gerados _insights_ os quais serão aproveitados para justificar a implementação do sistema de ERP *Sap Business One* na empresa *G2 Tecnologia*. Desses artigos foram retirados dados para metrificar os impactos, sejam positivos ou negativos, dada a implementação do sistema citado em empresas de pequeno e médio porte. Ou seja, utilizar da _Desk Research_ (ou Pesquisa Desk) é um passo importante para o entendimento do cenário a ser trabalhado e para coleta de dados cruciais para a tomada de decisão durante a implantação de um sistema de ERP. A pesquisa foi dividida em duas etapas, as duas com suas questões direcionadoras que procuram relacionar o projeto a ser realizado pela equipe com uma pesquisa aprofundada sobre temas relacionadas à ERP e a área de estoque, são elas:
 
@@ -125,7 +122,7 @@ Também foi abordada a questão de quem realiza os testes unitários dentro da e
 
 &emsp;&emsp;Vale ressaltar que a Pesquisa Desk é a coleta e análise de informações já disponíveis em diversas fontes<sup><a href="#referencia-2">2</a></sup>. Isto é, não cabe a essa etapa a criação de novos dados, apenas entender estudos pré existentes. Nesse caso, no âmbito do uso de ERP's, seus principais impactos e a implementação destes em _warehouses_.
 
-### Questão direcionadora 1
+### 1.3.4 Questão direcionadora 1
 
 **Relatório de pesquisa**
 
@@ -156,7 +153,7 @@ Também foi abordada a questão de quem realiza os testes unitários dentro da e
 
 &emsp;&emsp; Dados os resultados encontrados, justifica-se a aplicação da solução ERP *Sap Business One*. Isso porque, considerando as funcionalidades de soluções ERP, os resultados encontrados em outras empresas e o comparativo com outra grande solução do mercado, o uso desse sistema tornaria a administração dos processos empresariais na G2 Tecnologia mais eficientes e centralizados em uma única ferramenta. Assim, facilitando a identificação de possíveis problemas operacionais e mitigando erros processuais.
 
-### Questão direcionadora 2
+### 1.3.5 Questão direcionadora 2
 
 **Relatório de pesquisa**
 
