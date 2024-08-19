@@ -73,12 +73,12 @@ A pesquisa desk, por sua vez, requer a coleta de dados secundários a partir de 
 ### Introdução
 &emsp;Nesta seção, apresentamos o diagrama de macroprocessos desenvolvido, com um enfoque especial na área de Estoque. Este diagrama é parte fundamental do esforço de mapeamento e modelagem dos processos críticos para garantir uma gestão integrada e eficiente. O objetivo é proporcionar uma visão clara e estruturada dos principais fluxos de trabalho que sustentam a operação da G2, com ênfase nos processos de gestão de estoque.
 
-    <div align="center">
-    <sub>Figura 3 - Mapeamento dos Macro Processos</sub>
-    <img src="./imagens/Macroprocessos.png" width="100%" >
-    <sup>Fonte: Material produzido pelos autores (2024)</sup>
-    <sup>Link para melhor visualização: https://drive.google.com/file/d/10_4hXTG4c-jgKheU1xZsZ1ngih9VBSo6/view?usp=sharing </sup>
-    </div>
+   <div align="center">
+   <sub>Figura 3 - Mapeamento dos Macro Processos</sub>
+   <img src="./imagens/Macroprocessos.png" width="100%" >
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+   <sup>Link para melhor visualização: https://drive.google.com/file/d/10_4hXTG4c-jgKheU1xZsZ1ngih9VBSo6/view?usp=sharing </sup>
+   </div>
 
 ### Descrição
 &emsp;O diagrama de macroprocessos elaborado abrange as seguintes áreas operacionais da G2 Tecnologia: Vendas, Compras, Contabilidade, Finanças e Estoque. Cada área foi mapeada em termos de macroprocessos, oferecendo uma visão geral das atividades principais e seus objetivos dentro da empresa. Os diagramas de fluxo de atividades detalham os passos necessários para a execução dos macroprocessos de estoque, ilustrando as interações entre os diferentes papéis envolvidos, como Controlador de Estoque, Equipe de TI, e Fornecedores.
