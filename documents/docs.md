@@ -1,5 +1,11 @@
 # 1. Entendimento de Negócios 
 
+&emsp;A sessão "Entendimento de Negócios" é projetada para estabelecer uma base no que diz respeito à viabilidade e sustentabilidade do projeto, garantindo que todas as decisões estejam alinhadas com os objetivos estratégicos e operacionais. Esta sessão abrange a análise de riscos e a definição da proposta de valor.
+
+&emsp;O primeiro componente desta sessão é a Matriz de Risco, que deve ser desenvolvida levando em consideração o projeto específico para a empresa *G2 Tecnologia*, com uma visão interna da equipe de aplicação de *SAP*. Este processo envolve a identificação de, 10 riscos potenciais que possam impactar o andamento ou o sucesso do projeto, desenhando ainda um plano de resposta para cada risco identificado e justifique as decisões tomadas, conforme recomendado por Smith (2018), que enfatiza a importância de uma gestão de riscos proativa na garantia da continuidade do negócio. Além disso, o grupo optou por fazer também a Matriz de Oportunidades, identificado 10 oportunidades, que procuram visualizar o melhor cenário possível e estabelecer estratégias para alcançar tais objetivos. 
+
+&emsp;O segundo componente é o Canvas Proposta de Valor, que deve ser elaborado com base na solução que a equipe está desenvolvendo. Este documento articula o valor que a solução proposta traz para o cliente, a G2 tecnologia, considerando suas necessidades e problemas. Estudos como o de Osterwalder et al. (2014) sublinham a eficácia do Canvas Proposta de Valor em alinhar a oferta de valor da solução com as expectativas do mercado, facilitando a comunicação e a implementação de estratégias centradas no cliente.
+
 ## 1.1 Matriz de Risco
 
 ### Introdução:
@@ -75,3 +81,29 @@
 &emsp;&emsp;A proposta de valor aqui apresentada é a implementação do SAP Business One - um sistema de gestão empresarial que oferece uma solução integrada e abrangente - na empresa cliente. Com todos os módulos necessários para cobrir as diversas áreas da empresa, o SAP Business One elimina os silos de informação, facilita a comunicação entre setores e garante que todos os processos sejam bem definidos e padronizados, o que reduz quase a zero a possibilidades de ocorrer retrabalho. Em adição a isto, o sistema permite a automação de tarefas ordinárias, como a geração de relatórios e o cálculo de impostos, reduzindo nestes casos a necessidade de trabalho manual.
 
 &emsp;&emsp;Portanto, fica evidente que o SAP Business One aborda diretamente as principais questões enfrentadas pelo cliente. Isto se dá pois o serviço de implementação oferecido é o ideal para o momento de expansão que a empresa cliente vive, proporcionando um aumento na eficiência operacional, redução de custos e facilidade na tomada de decisões estratégicas.
+
+# 2. Experiência de Usuário 
+A sessão "Experiência de Usuário" visa detalhar o processo de entendimento das interações e percepções dos usuários em relação ao produto ou serviço em desenvolvimento. A análise da experiência do usuário (UX) garante que o produto final atenda às necessidades e expectativas do público-alvo, sendo um fator crítico para o sucesso do projeto.
+
+Nessa seção, o grupo terá dois focos específicos: Uma pesquisa exploratória e a pesquisa desk. A pesquisa exploratória visa adquirir um entendimento inicial sobre o tema em questão, o que foi obtido por meio de observações em campo e pelo primeiro contato com o parceiro durante o Kick-off, que se deu no dia 7 (sete) de agosto de 2024. Este tipo de pesquisa é fundamental para construir uma base sólida para as etapas subsequentes, conforme discutido por Brown (2019), que destaca a importância de uma fase exploratória robusta para a criação de produtos centrados no usuário.
+
+A pesquisa desk, por sua vez, requer a coleta de dados secundários a partir de fontes confiáveis, como livros, periódicos, publicações oficiais e relatórios de institutos reconhecidos. O objetivo dessa etapa é complementar os dados obtidos na pesquisa exploratória e fornecer uma visão abrangente do contexto do projeto. A eficácia da pesquisa desk está amplamente documentada na literatura, como aponta o estudo de Kumar (2020), que enfatiza a importância de utilizar múltiplas fontes secundárias para enriquecer o entendimento sobre o tema. Os temas escolhidos pela equipe para conduzir a pesquisa desk estão alinhados com o objetivos do módulo em questão, ou seja, o módulo SAP e como funciona a área de estoques, área de foco do grupo em questão.
+
+# Desenho da Solução (Mapeamento dos Macro Processos; Processos; Sub Processos, Modelagem de Processos)
+
+### Introdução
+&emsp;Nesta seção, apresentamos o diagrama de macroprocessos desenvolvido, com um enfoque especial na área de Estoque. Este diagrama é parte fundamental do esforço de mapeamento e modelagem dos processos críticos para garantir uma gestão integrada e eficiente. O objetivo é proporcionar uma visão clara e estruturada dos principais fluxos de trabalho que sustentam a operação da G2, com ênfase nos processos de gestão de estoque.
+
+   <div align="center">
+   <sub>Figura 3 - Mapeamento dos Macro Processos</sub>
+   <img src="./imagens/Macroprocessos.png" width="100%" >
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+   <sup>Link para melhor visualização: https://drive.google.com/file/d/10_4hXTG4c-jgKheU1xZsZ1ngih9VBSo6/view?usp=sharing </sup>
+   </div>
+
+### Descrição
+&emsp;O diagrama de macroprocessos elaborado abrange as seguintes áreas operacionais da G2 Tecnologia: Vendas, Compras, Contabilidade, Finanças e Estoque. Cada área foi mapeada em termos de macroprocessos, oferecendo uma visão geral das atividades principais e seus objetivos dentro da empresa. Os diagramas de fluxo de atividades detalham os passos necessários para a execução dos macroprocessos de estoque, ilustrando as interações entre os diferentes papéis envolvidos, como Controlador de Estoque, Equipe de TI, e Fornecedores.
+
+### Conclusão
+&emsp;O diagrama de macroprocessos desenvolvido facilita a compreensão dos fluxos operacionais das áreas da G2. Com este mapeamento, a equipe poderá garantir que todas as etapas sejam executadas conforme planejado, promovendo a integração dos processos e assegurando que a gestão de estoque atinja um novo patamar de eficiência e controle.
+
