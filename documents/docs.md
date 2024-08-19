@@ -67,3 +67,26 @@ A sessão "Experiência de Usuário" visa detalhar o processo de entendimento da
 Nessa seção, o grupo terá dois focos específicos: Uma pesquisa exploratória e a pesquisa desk. A pesquisa exploratória visa adquirir um entendimento inicial sobre o tema em questão, o que foi obtido por meio de observações em campo e pelo primeiro contato com o parceiro durante o Kick-off, que se deu no dia 7 (sete) de agosto de 2024. Este tipo de pesquisa é fundamental para construir uma base sólida para as etapas subsequentes, conforme discutido por Brown (2019), que destaca a importância de uma fase exploratória robusta para a criação de produtos centrados no usuário.
 
 A pesquisa desk, por sua vez, requer a coleta de dados secundários a partir de fontes confiáveis, como livros, periódicos, publicações oficiais e relatórios de institutos reconhecidos. O objetivo dessa etapa é complementar os dados obtidos na pesquisa exploratória e fornecer uma visão abrangente do contexto do projeto. A eficácia da pesquisa desk está amplamente documentada na literatura, como aponta o estudo de Kumar (2020), que enfatiza a importância de utilizar múltiplas fontes secundárias para enriquecer o entendimento sobre o tema. Os temas escolhidos pela equipe para conduzir a pesquisa desk estão alinhados com o objetivos do módulo em questão, ou seja, o módulo SAP e como funciona a área de estoques, área de foco do grupo em questão.
+
+# Desenho da Solução (Mapeamento dos Macro Processos; Processos; Sub Processos, Modelagem de Processos)
+
+### Introdução
+&emsp;Nesta seção, apresentamos o diagrama de macroprocessos desenvolvido, com um enfoque especial na área de Estoque. Este diagrama é parte fundamental do esforço de mapeamento e modelagem dos processos críticos para garantir uma gestão integrada e eficiente. O objetivo é proporcionar uma visão clara e estruturada dos principais fluxos de trabalho que sustentam a operação da G2, com ênfase nos processos de gestão de estoque.
+
+   <div align="center">
+   <sub>Figura 3 - Mapeamento dos Macro Processos</sub>
+   <img src="./imagens/Macroprocessos.png" width="100%" >
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+   <sup>Link para melhor visualização: https://drive.google.com/file/d/10_4hXTG4c-jgKheU1xZsZ1ngih9VBSo6/view?usp=sharing </sup>
+   </div>
+
+### Descrição
+&emsp;O diagrama de macroprocessos elaborado abrange as seguintes áreas operacionais da G2 Tecnologia: Vendas, Compras, Contabilidade, Finanças e Estoque. Cada área foi mapeada em termos de macroprocessos, oferecendo uma visão geral das atividades principais e seus objetivos dentro da empresa. Os diagramas de fluxo de atividades detalham os passos necessários para a execução dos macroprocessos de estoque, ilustrando as interações entre os diferentes papéis envolvidos, como Controlador de Estoque, Equipe de TI, e Fornecedores.
+
+### Conclusão
+&emsp;O diagrama de macroprocessos desenvolvido facilita a compreensão dos fluxos operacionais das áreas da G2. Com este mapeamento, a equipe poderá garantir que todas as etapas sejam executadas conforme planejado, promovendo a integração dos processos e assegurando que a gestão de estoque atinja um novo patamar de eficiência e controle.
+
+
+    
+
+    
